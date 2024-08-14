@@ -1,2 +1,3 @@
 # flutter-appbrewery
-projects for app brewery coure
+This is a simple business card type app to  practice using widgets for a layout.
+
